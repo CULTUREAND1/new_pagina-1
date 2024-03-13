@@ -68,3 +68,8 @@ y aplico un fondo oscuro (background-color) con texto blanco para mayor contrast
     width: 500px;
     height: 500px;
 }
+
+h2 {
+    text-align: center;
+
+}
