@@ -69,7 +69,7 @@ y aplico un fondo oscuro (background-color) con texto blanco para mayor contrast
     height: 500px;
 }
 
-h2,ul {
+h2,ul,li {
     text-align: center;
 
 }
