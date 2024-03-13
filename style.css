@@ -43,7 +43,7 @@ color gris (background-color) para resaltar*/
 footer {
     display: flex;
     justify-content: space-around;        
-    background-color: #333;
+    background-color: #c2b9b9;
     color: #fff;
     padding: 20px 0;
 }
