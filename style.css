@@ -1,26 +1,43 @@
+
+/*Aqui configure el estilo del body para utilizar 
+la fuente Arial o sans-serif, y elimino el margen 
+y relleno predeterminados */
+
 body {
     font-family: Arial, sans-serif;     
-    margin: 0;                       /*Aqui configure el estilo del body para utilizar la fuente Arial o sans-serif, y elimino el margen y relleno predeterminados */
+    margin: 0;                       
     padding: 0;
 }
+
+/* estilizo el header para centrar el texto( text-aling center) 
+y agregar un fodo de color claro (background-color) */
 
 header {
     text-align: center;
     padding: 20px 0;
-    background-color: #f2f2f2;        /* estilizo el header para centrar el texto( text-aling center) y agregar un fodo de color claro (background-color) */
+    background-color: #f2f2f2;        
 }
+
+ /* defino el tamaño maximo de la imagen del logo con 
+ una etiqueta llamada (max-width) para evitar que se expanda demasiado  */
 
 header img {
-    max-width: 200px;                /* defino el tamaño maximo de la imagen del logo con una etiqueta llamada (max-width) para evitar que se expanda demasiado  */
+    max-width: 200px;               
 }
 
+/* aqui las secciones tiene un relleno  
+para separar el contenido y los bloques del footer  */
+
 section {
-    padding: 20px;                         /* aqui las secciones tiene un relleno  para separar el contenido y los bloques del footer  */
+    padding: 20px;                         
 }
+
+/* a la sección tecnologias le agregue un fondo de 
+color gris (background-color) para resaltar*/
 
 .tecnologias {
     background-color: #ccc;
-    padding: 20px;                                    /* a la sección tecnologias le agregue un fondo de color gris (background-color) para resaltar*/
+    padding: 20px;                                    
 }
 
 footer {
@@ -30,7 +47,9 @@ footer {
     color: #fff;
     padding: 20px 0;
 }
-          /*  en el footer utilizo flexblox para distribuir los bloques horizontalmente y aplico un fondo oscuro (background-color) con texto blanco para mayor contraste. */
+ 
+/*  en el footer utilizo flexblox para distribuir los bloques horizontalmente 
+y aplico un fondo oscuro (background-color) con texto blanco para mayor contraste. */
 
 .bloque {
     flex: 1;
