@@ -29,8 +29,8 @@ section {
 /* le agregue un fondo de 
 (background-color) para resaltar*/
 
-.tecnologias {
-    background-color: #ecf5eb;
+.objetivos {
+    background-color: rgb(215, 240, 209);
     padding: 20px;                                    
 }
 
