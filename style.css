@@ -49,7 +49,7 @@ y aplico (background-color) con texto. */
 footer {
     display: flex;
     justify-content: space-around;        
-    background-color: #ecf5eb;
+    background-color: rgb(215, 240, 209);
     color: #1a1919;
     padding: 20px 0;
 }
