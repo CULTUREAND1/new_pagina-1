@@ -43,6 +43,9 @@ section {
     padding: 20px;                                    
 }
 
+/*  en el footer utilizo los bloques horizontalmente 
+y aplico (background-color) con texto. */
+
 footer {
     display: flex;
     justify-content: space-around;        
@@ -51,19 +54,17 @@ footer {
     padding: 20px 0;
 }
  
-/*  en el footer utilizo flexblox para distribuir los bloques horizontalmente 
-y aplico un fondo oscuro (background-color) con texto blanco para mayor contraste. */
 
 .bloque {
     flex: 1;
     padding: 0 20px;
 
 }
-.imagen3{
+.en3{
     width: 700px;
     height: 500px;
 }
-.imagen1{
+.en1{
     width: 500px;
     height: 500px;
 }
