@@ -38,6 +38,10 @@ color gris (background-color) para resaltar*/
     background-color: #ccc;
     padding: 20px;                                    
 }
+.encabezado {
+    background-color: #ccc;
+    padding: 20px;                                    
+}
 
 footer {
     display: flex;
