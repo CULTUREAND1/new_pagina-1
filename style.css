@@ -27,26 +27,26 @@ section {
 }
 
 /* le agregue un fondo de 
-color gris (background-color) para resaltar*/
+(background-color) para resaltar*/
 
 .tecnologias {
-    background-color: #ccc;
+    background-color: #ecf5eb;
     padding: 20px;                                    
 }
 
 .resumen {
-    background-color: #ccc;
+    background-color: #ecf5eb;
     padding: 20px;                                    
 }
 .encabezado {
-    background-color: #ccc;
+    background-color: #ecf5eb;
     padding: 20px;                                    
 }
 
 footer {
     display: flex;
     justify-content: space-around;        
-    background-color: #c2b9b9;
+    background-color: #ecf5eb;
     color: #1a1919;
     padding: 20px 0;
 }
