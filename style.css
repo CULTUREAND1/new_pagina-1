@@ -15,15 +15,9 @@ y agregar un fodo de color claro (background-color) */
 header {
     text-align: center;
     padding: 20px 0;
-    background-color: #f2f2f2;        
+    background-color: white;        
 }
 
- /* defino el tamaño maximo de la imagen del logo con 
- una etiqueta llamada (max-width) para evitar que se expanda demasiado  */
-
-header img {
-    max-width: 200px;               
-}
 
 /* aqui las secciones tiene un relleno  
 para separar el contenido y los bloques del footer  */
@@ -32,10 +26,15 @@ section {
     padding: 20px;                         
 }
 
-/* a la sección tecnologias le agregue un fondo de 
+/* le agregue un fondo de 
 color gris (background-color) para resaltar*/
 
 .tecnologias {
+    background-color: #ccc;
+    padding: 20px;                                    
+}
+
+.resumen {
     background-color: #ccc;
     padding: 20px;                                    
 }
